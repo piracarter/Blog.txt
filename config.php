@@ -26,10 +26,10 @@
 	SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-	$title = "Blog.txt";	//	Title for Blog
+	$title = "Certificate Studio";	//	Title for Blog
 	$keywords = array("Blog.txt", "Blogging Software", "Open Source", "PHP");	//	Keywords
-	$description = "Matt Zanchelli makes blogging software.";	//	Description
-	$author = "Matt Zanchelli";	//	Who writes/maintains this blog?
+	$description = "Blog de Certificate Studio";	//	Description
+	$author = "Sandra Mayela Sandoval Juarez";	//	Who writes/maintains this blog?
 	
 	$dir = "posts";	//	Directory for storing posts
 	$postsPerPage = 8;	//	Number of posts per page
